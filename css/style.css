@@ -1,0 +1,157 @@
+/*Full body and html*/
+html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+body{
+  font-family: "Montserrat";
+}
+
+/*logo title and navbar*/
+.logo{
+width: 10%;
+}
+#title{
+  background-color: #0a81ab;
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 2.5%;
+}
+.navbar{
+  padding: 0 0 5rem 0;
+}
+.navbar-brand{
+  font-family: "Happy Monkey";
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.nav-item{
+  padding: 0 5px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+/*heading*/
+.heading{
+  font-family: "Montserrat-Black";
+  font-weight: bold;
+  line-height: 1.5;
+  font-size: 4rem;
+  color: white;
+  text-align: center;
+  padding-top: 15%;
+  margin-left: 25px;
+}
+
+
+.btn-log{
+  padding: 100%;;
+  margin: 20px 10px 5px 20px;
+  position: relative;
+  left: 35%;
+}
+.head-img{
+  position: relative;
+  left: 50px;
+}
+
+/*features*/
+#features{
+  padding: 8% 15%;
+  margin: 0 15px 0 10px;
+  background-color: #fff;
+  position: relative;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+.ico{
+  color: #0a81ab;
+  margin-bottom: 1rem;
+}
+.ico:hover{
+  color: #0c4271;
+}
+
+/*testimonials*/
+#testimonials{
+
+  text-align: center;
+  background-color: #0a81ab;
+  color: #fff;
+  padding: 10% 5%;
+
+}
+.test-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+  position: relative;
+  left: 44%;
+}
+
+/*learning*/
+#learn{
+  background-color: #fff;
+  color: #0a81ab;
+  font-family: "Montserrat";
+  text-align: center;
+  padding: 3% 5%;
+}
+.learn-txt{
+  font-family: "Russo One";
+  font-size: 4rem;
+  position: relative;
+  top: 10%;
+}
+.btn-learn{
+  position: relative;
+  top: 7%;
+}
+
+/* call to action/login */
+#cta{
+  background-color: #0a81ab;
+  text-align: center;
+  padding-top: 20px;
+}
+.cta-text{
+  color: #fff;
+  text-align: center;
+  font-size: 4rem;
+  position: relative;
+  top: 50px;
+}
+.cta-img{
+  opacity: 0.7;
+}
+.cta-img:hover{
+  opacity: 1;
+}
+
+/*foot*/
+#footer{
+  background-color: #fff;
+  margin: 20px;
+  font-size: 1rem;
+  padding: 10% 0;
+}
+.foot-icon{
+  margin: 20px 10px;
+  position: relative;
+  left: 42%;
+  color: Black;
+  width: 30px;
+}
+.foot-icon:hover{
+  color: #0a81ab;
+}
+.para-foot{
+  text-align: center;
+}
+/*END*/
+/* Prakarsh Kaushik */

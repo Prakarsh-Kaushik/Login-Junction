@@ -1,0 +1,96 @@
+/*Full body and html*/
+html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+body{
+  font-family: "Montserrat";
+}
+
+/*logo title and navbar*/
+.logo{
+width: 10%;
+}
+#title{
+  background-color: #0a81ab;
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 2.5%;
+}
+.navbar{
+  padding: 0 0 5rem 0;
+}
+.navbar-brand{
+  font-family: "Happy Monkey";
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.nav-item{
+  padding: 0 5px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+/*Login Buttons */
+#login{
+  background-color: #0a81ab;
+}
+h5{
+  text-align: center;
+  padding-bottom: 40px;
+
+}
+a:link{
+  color: Black;
+}
+
+.bank-img{
+padding: 8% 35%;
+}
+.socialmedia-img{
+  padding: 8% 35%;
+}
+.movie-img{
+padding: 8% 35%;
+}
+.food-img{
+  padding: 8% 35%;
+}
+.travel-img{
+  padding: 8% 35%;
+}
+.ecom-img{
+  padding: 8% 35%;
+}
+img:hover{
+  transform: scale(1.5);
+}
+h5:hover{
+  color: #fff;
+  transform: scale(1.5);
+}
+/*foot*/
+#footer{
+  background-color: #fff;
+  margin: 20px;
+  font-size: 1rem;
+  padding: 10% 0;
+}
+.foot-icon{
+  margin: 20px 10px;
+  position: relative;
+  left: 42%;
+  color: Black;
+  width: 30px;
+}
+.foot-icon:hover{
+  color: #0a81ab;
+}
+.para-foot{
+  text-align: center;
+}
+/*END*/
+/* Prakarsh Kaushik */

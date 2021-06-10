@@ -1,0 +1,114 @@
+/*Full body and html*/
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+/*logo title and navbar*/
+.logo {
+  width: 10%;
+}
+
+#title {
+  background-color: #0a81ab;
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 2.5%;
+}
+
+.navbar {
+  padding: 0 0 5rem 0;
+}
+
+.navbar-brand {
+  font-family: "Happy Monkey";
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.nav-item {
+  padding: 0 5px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+/*About Content */
+#about {
+  padding: 20px;
+}
+
+.second-row {
+  background-color: #0a81ab;
+  
+}
+
+.txt0 {
+  margin-top: 10px;
+  padding: 20px 30px;
+  font-family: "Happy Monkey";
+}
+
+.txt1 {
+  padding: 40px 30px;
+  font-family: "Happy Monkey";
+  color: #fff;
+
+}
+
+.img0 {
+  margin-top: 10px;
+  padding: 20px 30px;
+  border: 4px solid gray;
+  position: relative;
+  bottom: 5px;
+}
+
+.img1 {
+  padding: 40px 20px;
+  border: 4px solid #fff;
+  position: relative;
+  top: 5px;
+}
+
+.initials {
+  position: relative;
+  left: 60%;
+  bottom: 5%;
+  font-family: "Russo one";
+  color: #fff;
+}
+
+/*foot*/
+#footer {
+  background-color: #fff;
+  margin: 20px;
+  font-size: 1rem;
+  padding: 10% 0;
+}
+
+.foot-icon {
+  margin: 20px 10px;
+  position: relative;
+  left: 42%;
+  color: Black;
+  width: 30px;
+}
+
+.foot-icon:hover {
+  color: #0a81ab;
+}
+
+.para-foot {
+  text-align: center;
+}
+
+/*END*/
+/* Prakarsh Kaushik */
